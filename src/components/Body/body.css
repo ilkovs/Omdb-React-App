@@ -1,0 +1,24 @@
+body {
+    margin: 20px 40px 0 40px;
+    background-image: url("https://static8.depositphotos.com/1466059/960/i/950/depositphotos_9607384-stockafbeelding-grunge-film-achtergrond.jpg");
+}
+
+.navbar {
+    padding: 20px;
+    opacity: 0.9;
+    background-color: rgb(236, 223, 198);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+h2 {
+    color:white;
+}
+
+img {
+    margin-bottom: 40px;
+}
